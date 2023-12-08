@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum.&hearts;++;A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
 </p>
 
-- I’m currently learning **WaBot Development**
+- I’m currently learning ***WaBot Development***
 
 - 👨‍💻 All of my projects are available at [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
 
