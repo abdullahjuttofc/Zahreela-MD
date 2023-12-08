@@ -1,9 +1,10 @@
-<h1 align="center">Hi , I'm ABDULLAH JUTT</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whatsapp-user-bot&label=Profile%20views&color=0e75b6&style=flat" alt="whatsapp-user-bot" /> </p>
-<img align="right" alt="coding" width="400" src="[https://pin.it/7vOvkBC)">
+<h1 align="center"><b>𝐇𝐘, 𝐈 𝐀𝐌 𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇 𝐉𝐔𝐓𝐓 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum.&hearts;++;A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;WORKING ON WABOTS..<3"></a>
+</p>
 - I’m currently learning **WaBot Development**
 
 - 👨‍💻 All of my projects are available at [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
