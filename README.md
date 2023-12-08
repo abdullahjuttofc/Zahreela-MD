@@ -16,8 +16,6 @@
 
 - How to reach me **jutt420official@gmail.com**
 
-- Whatsapp Me [wa.me/92347977161](wa.me/92347977161)
-
 - ⚡ Fact **I am Zahreela**
 
 <h3 align="left">Connect with me:</h3>
