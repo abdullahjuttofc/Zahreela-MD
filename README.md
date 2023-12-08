@@ -1,19 +1,19 @@
-<h1 align="center">Hi ??, I'm ABDULLAH JUTT</h1>
+<h1 align="center">Hi , I'm ABDULLAH JUTT</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whatsapp-user-bot&label=Profile%20views&color=0e75b6&style=flat" alt="whatsapp-user-bot" /> </p>
 
-- ?? I’m currently learning **WaBot Development**
+- I’m currently learning **WaBot Development**
 
-- ????? All of my projects are available at [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
+- 👨‍💻 All of my projects are available at [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
 
-- vist our channel on Youtube [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
+- Vist our channel on Youtube [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
 
-- ?? How to reach me **jutt420official@gmail.com**
+- How to reach me **jutt420official@gmail.com**
 
 - Whatsapp Me [wa.me/92347977161](wa.me/92347977161)
 
-- ? Fact **I am Zahreela**
+- ⚡ Fact **I am Zahreela**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
