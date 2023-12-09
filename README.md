@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://telegra.ph/file/a977a8d211aa28ddc4d54.jpg)](https://github.com/abdullahjuttofc)
+[![MasterHead](https://telegra.ph/file/772a4a9bc373ccb7132be.jpg)](https://github.com/abdullahjuttofc)
 
 <h1 align="center"><b>𝐇𝐘, 𝐈 𝐀𝐌 𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇 𝐉𝐔𝐓𝐓 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
