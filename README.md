@@ -1,7 +1,7 @@
-### Hi there 👋
-[![MasterHead](https://telegra.ph/file/772a4a9bc373ccb7132be.jpg)](https://github.com/abdullahjuttofc)
+### Hi there 
+[![MasterHead](https://telegra.ph/file/850a1e78d860fd569c800.jpg)](https://github.com/abdullahjuttofc)
 
-<h1 align="center"><b>𝐇𝐘, 𝐈 𝐀𝐌 𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇 𝐉𝐔𝐓𝐓 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hi, I am 𝐀𝐛𝐝𝐮𝐥𝐥𝐚𝐡 נυтт </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -10,13 +10,9 @@
 
 - I’m currently learning ***WaBot Development***
 
-- 👨‍💻 All of my projects are available at [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
-
-- Vist our channel on Youtube [https://youtube.com/@mhmodsofc](https://youtube.com/@mhmodsofc)
-
 - How to reach me **jutt420official@gmail.com**
 
-- ⚡ Fact **I am Zahreela**
+- ⚡ Fact **I am ZAHREELA**
 
 - <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
