@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a aria-label="Join our chats" href="https://wa.me/+923277337485" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <a href="https://wa.me/923277337485?text=Hi%20Abdullah%20Sir...%20I%20Need%20YouR%20Help">
+    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
